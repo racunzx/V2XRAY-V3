@@ -53,9 +53,11 @@ chmod +x /var/run/screen
 ```  
 
 ## Description :
-=====================================-{ Autoscript Premium }-===============================
+This script by : vpnshopee | https://t.me/vpnshopee
 
---------------------------------------------------------------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Port Information :
+
    >>> Service & Port
    - OpenSSH                 : 22
    - OpenVPN                 : TCP 1194, UDP 2200
@@ -88,11 +90,23 @@ chmod +x /var/run/screen
    - Auto-Reboot              : [OFF]
    - IPv6                     : [OFF]
    - Auto-Remove-Expired      : [ON]
-   - Installation Log --> /root/log-install.txt
+   - Autobackup Data
+   - AutoKill Multi Login User
+   - Auto Delete Expired Account
+   - Fully automatic script
+   - VPS settings
+   - Admin Control
+   - Change port
+   - Restore Data
+   - Full Orders For Various Services
 
-   - Installation Log --> /root/log-install.txt
-
------------------------------Script by RARE-------------------------------------
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Credit :
-* MACK-A
+ THANKS TO ALLAH SWT SEGALA PUJI BAGI ALLAH,
+ THANKS GOOGLE, THANKS YOUTUBE, THANKS GITHUB,
+ Credit Horasss,SSH SEDANG, FordSenpai,
+ Credit Mack-A, Jrohy, hybtoy, SCVPS,
+ Credit Project X Community, Project V, Trojan-GFW
+ Contact me on telegram if missing credit
+ Telegram: @vpnshopee
