@@ -21,23 +21,15 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/shopeevpn/inject-data/main/raw/VPNSHOPEE-2.jpg">
    </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/shopeevpn/V2XRAY-V2/main/2/01.png">
+<img src="https://raw.githubusercontent.com/shopeevpn/V2XRAY-V3/main/v3/01.png">
    </p>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/V2XRAY-V2/main/2/02.png">
+  <img src="https://raw.githubusercontent.com/shopeevpn/V2XRAY-V3/main/v3/02.png">
    </p>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/V2XRAY-V2/main/2/03.png">
+  <img src="https://raw.githubusercontent.com/shopeevpn/V2XRAY-V3/main/v3/03.png">
    </p>
      <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/V2XRAY-V2/main/2/04.png">
-   </p>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/V2XRAY-V2/main/2/05.png">
-   </p>
-     <p align="center">
-  <img src="https://raw.githubusercontent.com/shopeevpn/V2XRAY-V2/main/2/06.png">
-   </p>
   
   ## Register IP VPS: Contact Telegram @vpnshopee <a href="https://t.me/vpnshopee" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
   
