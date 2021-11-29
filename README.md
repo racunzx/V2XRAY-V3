@@ -55,7 +55,8 @@ chmod +x /var/run/screen
 ## Description :
 This script by : vpnshopee | https://t.me/vpnshopee
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 Port Information :
 
    >>> Service & Port
@@ -100,7 +101,7 @@ Port Information :
    - Restore Data
    - Full Orders For Various Services
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Credit :
  THANKS TO ALLAH SWT SEGALA PUJI BAGI ALLAH,
